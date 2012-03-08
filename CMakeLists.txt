@@ -1,3 +1,7 @@
+#roxio: PROJECT BASED ON MY OWN REPAIR SOLUTIONS - PLEASE TEST and RAPORT ALL
+
+#VVVVVV Original TC File VVVVVVV
+
 # Copyright (C) 2008-2011 TrinityCore <http://www.trinitycore.org/>
 #
 # This file is free software; as a special exception the author gives
